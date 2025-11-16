@@ -156,7 +156,7 @@ For each emotion (Happy, Sad, Angry, Fear, Surprise, Disgust, Neutral), the syst
 
 ✔️ Popular artists associated with that emotional tone
 
-✔️ 8–10 representative songs (expandable by the user)
+✔️ 8 representative songs (expandable by the user)
 
 ✔️ Music attributes like tempo, energy level, and valence
 

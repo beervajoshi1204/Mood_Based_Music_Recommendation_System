@@ -1,4 +1,4 @@
-#🎵Mood_Based_Music_Recommendation_System
+#🎵Mood_Based_Music_Recommendation_System#
 
 A Streamlit-based AI project that detects human emotion from an image or webcam feed and recommends music accordingly — giving users a personalized, emotion-aware listening experience.
 

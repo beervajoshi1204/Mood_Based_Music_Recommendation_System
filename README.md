@@ -170,3 +170,7 @@ For each emotion (Happy, Sad, Angry, Fear, Surprise, Disgust, Neutral), the syst
 
 4. Supported Formats: JPG, JPEG, PNG
 
+<h1>💡Creator</h1>
+
+Beerva Joshi , Github : beervajoshi1204
+
